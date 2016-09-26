@@ -1,0 +1,28 @@
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+INFO  main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Connection with the database created successfuly using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+INFO  main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Connection with the database created successfuly using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+INFO  main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Connection with the database created successfuly using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+INFO  main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Connection with the database created successfuly using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+INFO  main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Connection with the database created successfuly using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+INFO  main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Connection with the database created successfuly using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+INFO  main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Connection with the database created successfuly using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+INFO  main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Connection with the database created successfuly using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+INFO  main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Connection with the database created successfuly using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+INFO  main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Connection with the database created successfuly using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+INFO  main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Connection with the database created successfuly using cfg file: hibernate.cfg.xml
+DEBUG main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Trying to create a connection with the database using cfg file: hibernate.cfg.xml
+INFO  main [cl.vmetrix.vmqb.entities.VMDatabase     ]  - Connection with the database created successfuly using cfg file: hibernate.cfg.xml
